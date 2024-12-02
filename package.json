@@ -1,0 +1,13 @@
+{
+    "name": "nexuscore",
+    "version": "0.1.0",
+    "description": "Universal context management core",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo "No tests specified yet""
+    },
+    "keywords": ["nexus", "context", "development"],
+    "author": "paclarap",
+    "license": "MIT"
+}
